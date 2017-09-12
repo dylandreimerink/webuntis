@@ -60,7 +60,7 @@ class Webuntis {
     /**
      * @var string
      */
-    const PATH_SCHEME = 'https://{server}.webuntis.com/WebUntis/jsonrpc.do?school=';
+    const PATH_SCHEME = 'https://{server}.windesheim.nl/WebUntis/?school=';
 
     /**
      * @var array
